@@ -51,15 +51,3 @@
     CLOSE(50)  
 
   END PROGRAM circle
-
-
-
-
-
-
-
-
-
-
-
-
