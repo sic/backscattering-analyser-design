@@ -1,1 +1,22 @@
-CASE A------ 170 degrees 10.23 cmCASE B------ 175 degrees 5.10 cmASBUILT-------Dimensions taken from design drawings.There is alittle confusion relating to where the sample heightis wrt the analyser.The -SYM config file has a 40cm high analyser situated symmetrically around the sample (i.e. 20cm above sample plane and 20 cm below)
+CASE A
+------
+
+ 170 degrees 
+
+ 10.23 cm
+
+CASE B
+------
+ 
+ 175 degrees
+
+ 5.10 cm
+
+ASBUILT
+-------
+Dimensions taken from design drawings.
+There is alittle confusion relating to where the sample height
+is wrt the analyser.
+
+The -SYM config file has a 40cm high analyser situated symmetrically 
+around the sample (i.e. 20cm above sample plane and 20 cm below)
