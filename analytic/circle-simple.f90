@@ -1,5 +1,7 @@
 ! Program to generate the parameters for an analyser bank (IRIS/OSIRIS)
 ! Circle centred on the point midway between the sample and detector.
+! Stuart Campbell (2003)
+
   PROGRAM circle
 
   IMPLICIT NONE 
